@@ -24,7 +24,7 @@ MSc in Data Science from AIMS Rwanda. My research focuses on computer vision, em
       <h3>🚦 Traffic Speed Estimation</h3>
       <p>Real-time vehicle speed estimation from video using YOLO and OpenVINO, optimized for Raspberry Pi. Master's research with distinction.</p>
       <p><strong>Tech:</strong> Python, OpenCV, YOLO, OpenVINO, PyTorch, Raspberry Pi</p>
-      <a href="https://github.com/tsiky-rakotoherisoa/Master-research-project">Repository →</a>
+      <a href="https://github.com/tsiky-rakotoherisoa/Master-s-thesis">Repository →</a>
     </td>
     <td width="50%">
       <h3>📊 Statistical ML with R</h3>
@@ -54,12 +54,7 @@ MSc in Data Science from AIMS Rwanda. My research focuses on computer vision, em
       <p><strong>Tech:</strong> Python, Jupyter, TDA libraries</p>
       <a href="https://github.com/tsiky-rakotoherisoa/Topological-Data-Analysis">Repository →</a>
     </td>
-    <td width="50%">
-      <h3>📉 Interactive Plotting</h3>
-      <p>Interactive data visualizations using Plotly for exploratory data analysis and reporting.</p>
-      <p><strong>Tech:</strong> Python, Plotly, Dash, HTML</p>
-      <a href="https://github.com/tsiky-rakotoherisoa/Plotly-plot">Repository →</a>
-    </td>
+   
   </tr>
 </table>
 
