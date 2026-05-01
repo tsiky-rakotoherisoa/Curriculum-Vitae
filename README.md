@@ -6,13 +6,26 @@
 
 ## About Me
 
-MSc in Data Science from AIMS Rwanda. My research focuses on computer vision, embedded AI, and the intersection of machine learning with mathematical finance. I'm driven by building systems that work **in the real world** — on affordable hardware, for practical problems.
+I am a recent MSc graduate in Data Science from AIMS Rwanda, deeply passionate about mathematics in all its forms — from rigorous proofs and theoretical foundations to practical applications that touch everyday life. I believe that strong mathematical thinking is the backbone of good science, and I bring this mindset to everything I work on.
 
-- 🔭 **Recent:** Master's thesis on real-time traffic speed estimation using YOLO and OpenVINO on Raspberry Pi
-- 🌱 **Learning:** Mathematical finance, stochastic processes, probability theory
-- 👩🏽‍🔬 **Research Interest:** Computer vision, embedded AI systems, statistical learning, mathematical finance
-- 🏆 **Award:** Miss Geek Madagascar 2025
-- 📍 **Based:** Antananarivo, Madagascar
+I am especially drawn to theoretical machine learning: understanding why methods work, not just how to use them. At the same time, I care about building things that matter — systems that run on affordable hardware, solve real problems, and make a difference in communities that need them most.
+
+
+---
+
+## Research Interests
+
+- **Theoretical Machine Learning** — Understanding the mathematical foundations of learning algorithms
+- **Computer Vision & Embedded AI** — Building vision systems that run efficiently on resource-constrained devices; model optimization, edge deployment
+- **Mathematical Finance** — Stochastic processes, probability theory, and their application to financial modeling and risk management
+- **Applied Mathematics** — Using rigorous mathematical reasoning to solve real-world problems across domains
+
+---
+
+## Education
+
+- **MSc in Data Science** — African Institute for Mathematical Sciences (AIMS), Rwanda (2024–2025)
+- **BSc in Applied Mathematics, Computer Science & Statistics** — University of Antananarivo, Madagascar (2020–2024)
 
 ---
 
