@@ -6,19 +6,19 @@
 
 ## About Me
 
-I am a recent MSc graduate in Data Science from AIMS Rwanda, deeply passionate about mathematics in all its forms — from rigorous proofs and theoretical foundations to practical applications that touch everyday life. I believe that strong mathematical thinking is the backbone of good science, and I bring this mindset to everything I work on.
+I am a recent MSc graduate in Data Science from AIMS Rwanda, passionate about mathematics in all its forms, from rigorous proofs and theoretical foundations to practical applications that touch everyday life. I believe that strong mathematical thinking is the backbone of good science, and I bring this mindset to everything I work on.
 
-I am especially drawn to theoretical machine learning: understanding why methods work, not just how to use them. At the same time, I care about building things that matter — systems that run on affordable hardware, solve real problems, and make a difference in communities that need them most.
+I am especially drawn to theoretical machine learning: understanding why methods work, not just how to use them. At the same time, I care about building things that matter, systems that run on affordable hardware, solve real problems, and make a difference in communities that need them most.
 
 
 ---
 
 ## Research Interests
 
-- **Theoretical Machine Learning** — Understanding the mathematical foundations of learning algorithms
-- **Computer Vision & Embedded AI** — Building vision systems that run efficiently on resource-constrained devices; model optimization, edge deployment
-- **Mathematical Finance** — Stochastic processes, probability theory, and their application to financial modeling and risk management
-- **Applied Mathematics** — Using rigorous mathematical reasoning to solve real-world problems across domains
+- **Theoretical Machine Learning**: Understanding the mathematical foundations of learning algorithms
+- **Computer Vision & Embedded AI**: Building vision systems that run efficiently on resource-constrained devices; model optimization, edge deployment
+- **Mathematical Finance**: Stochastic processes, probability theory, and their application to financial modeling and risk management
+- **Applied Mathematics**: Using rigorous mathematical reasoning to solve real-world problems across domains
 
 ---
 
