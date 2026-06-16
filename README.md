@@ -85,23 +85,4 @@ I am especially drawn to theoretical machine learning: understanding why methods
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
----
 
-## Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/rakotoherisoa-tsiky-tafita-592455258">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/tsiky-rakotoherisoa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:tsiky.rakotoherisoa@aims.ac.rw">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsiky-rakotoherisoa&show_icons=true&theme=graywhite&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsiky-rakotoherisoa&layout=compact&theme=graywhite&hide_border=true" width="48%" />
-</p>
